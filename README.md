@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQHEzIknswfsvA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695058577673?e=1754524800&v=beta&t=b_DunfKkeqQ2bcrUQg-S2iB2uoBAaLwVH96TI4BRy18"  />
 
 ###
 
@@ -35,15 +35,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:rudasmarinjf@gmail.com.com" >
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/james-ferney-rudas-mar%C3%ADn-520356180/" >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jamesrx13/jamesrx13/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
