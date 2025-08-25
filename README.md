@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQHEzIknswfsvA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695058577673?e=1754524800&v=beta&t=b_DunfKkeqQ2bcrUQg-S2iB2uoBAaLwVH96TI4BRy18"  />
+<img align="right" height="150" src="https://jamesrudas.com/images/me.jpg"  />
 
 ###
 
